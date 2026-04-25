@@ -65,6 +65,12 @@ The CORE routing table confirms the hotel VLAN networks are learned through OSPF
 
 ![CORE router show ip route output](screenshots/02-core-routing-table.png)
 
+## VoIP Registration Validation
+
+The OFFICE router CME configuration shows IP phones registered through SCCP with extensions 1001 through 1006.
+
+![OFFICE router show ephone registered output](screenshots/04-office-voip-registered.png)
+
 ## Final Network Scope
 
 ### Routing and Core Services
