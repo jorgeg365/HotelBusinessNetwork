@@ -59,6 +59,12 @@ The CORE router formed full OSPF adjacencies with the OFFICE, REST, and GUEST ro
 
 ![CORE router show ip ospf neighbor output](screenshots/03-ospf-neighbors.png)
 
+## Routing Table Validation
+
+The CORE routing table confirms the hotel VLAN networks are learned through OSPF and that the default route points toward the ISP edge.
+
+![CORE router show ip route output](screenshots/02-core-routing-table.png)
+
 ## Final Network Scope
 
 ### Routing and Core Services
