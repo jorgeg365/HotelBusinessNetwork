@@ -142,28 +142,6 @@ It includes:
 - DHCP and VLAN troubleshooting checkpoints
 - CME registration flow and phone extension mapping
 
-## Screenshot Placeholders
-
-Add your screenshots to `screenshots/` using the suggested names below.
-
-Recommended files:
-
-- `screenshots/01-topology-overview.png`
-- `screenshots/02-core-routing-table.png`
-- `screenshots/03-ospf-neighbors.png`
-- `screenshots/04-office-voip-registered.png`
-- `screenshots/05-restaurant-voice-dhcp.png`
-- `screenshots/06-cross-site-call-office-phone-idle.png`
-- `screenshots/07-cross-site-call-office-to-guest-ringout.png`
-- `screenshots/08-cross-site-call-guest-ringing.png`
-- `screenshots/09-cross-site-call-connected.png`
-
-Then reference them in this README as needed:
-
-```md
-![Topology](screenshots/01-topology-overview.png)
-```
-
 ## Validation Checklist
 
 - OSPF neighbors reached FULL state across core and branch routers
