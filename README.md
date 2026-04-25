@@ -49,6 +49,10 @@ flowchart TB
 	SWG --- GDEV
 ```
 
+## Network Overview
+
+![Full hotel business network topology](screenshots/01-topology-overview.png)
+
 ## Final Network Scope
 
 ### Routing and Core Services
