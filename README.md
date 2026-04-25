@@ -53,6 +53,12 @@ flowchart TB
 
 ![Full hotel business network topology](screenshots/01-topology-overview.png)
 
+## OSPF Neighbor Validation
+
+The CORE router formed full OSPF adjacencies with the OFFICE, REST, and GUEST routers.
+
+![CORE router show ip ospf neighbor output](screenshots/03-ospf-neighbors.png)
+
 ## Final Network Scope
 
 ### Routing and Core Services
