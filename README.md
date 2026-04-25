@@ -82,6 +82,18 @@ flowchart TB
 - Guest-area phones registered and tested
 - Cross-network calling verified between all sites
 
+## Cross-Site Call Test
+
+The screenshots below show a successful call flow from an office IP phone extension to a guest-area IP phone extension.
+
+![Office IP phone ready for cross-site call](screenshots/06-cross-site-call-office-phone-idle.png)
+
+![Office IP phone dialing guest extension 1005](screenshots/07-cross-site-call-office-to-guest-ringout.png)
+
+![Guest IP phone ringing from office extension 1001](screenshots/08-cross-site-call-guest-ringing.png)
+
+![Guest IP phone connected to office extension 1001](screenshots/09-cross-site-call-connected.png)
+
 ## IP Plan Summary
 
 ### Router Interconnects
@@ -123,7 +135,10 @@ Recommended files:
 - `screenshots/03-ospf-neighbors.png`
 - `screenshots/04-office-voip-registered.png`
 - `screenshots/05-restaurant-voice-dhcp.png`
-- `screenshots/06-cross-site-call-test.png`
+- `screenshots/06-cross-site-call-office-phone-idle.png`
+- `screenshots/07-cross-site-call-office-to-guest-ringout.png`
+- `screenshots/08-cross-site-call-guest-ringing.png`
+- `screenshots/09-cross-site-call-connected.png`
 
 Then reference them in this README as needed:
 

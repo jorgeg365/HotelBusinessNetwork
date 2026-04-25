@@ -9,6 +9,9 @@ Recommended names:
 - 03-ospf-neighbors.png
 - 04-office-voip-registered.png
 - 05-restaurant-voice-dhcp.png
-- 06-cross-site-call-test.png
+- 06-cross-site-call-office-phone-idle.png
+- 07-cross-site-call-office-to-guest-ringout.png
+- 08-cross-site-call-guest-ringing.png
+- 09-cross-site-call-connected.png
 
 You can then reference these in the root README.
